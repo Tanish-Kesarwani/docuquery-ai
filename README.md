@@ -2,6 +2,15 @@
 
 DocuQuery AI is an intelligent, conversational document analysis tool. It leverages Large Language Models (LLMs) to allow users to "chat with their documents," transforming dense, unstructured PDFs into an interactive Q&A experience.
 
+🌐 Live Demo
+You can access and interact with the live, deployed version of the application here:
+
+➡️ Click here to open the DocuQuery AI App
+
+( [https://your-app-name.streamlit.app](https://docuquery0ai.streamlit.app/) )
+
+
+
 📖 Description
 
 This project was designed to solve the challenge of extracting specific, contextual information from large documents like insurance policies, legal contracts, or HR manuals. Instead of manually searching through pages of text, users can simply upload a document and ask questions in plain English. The system uses a Retrieval-Augmented Generation (RAG) pipeline to find the most relevant information and generate accurate, easy-to-understand answers.
