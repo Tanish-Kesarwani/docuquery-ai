@@ -1,0 +1,7 @@
+.env
+venv/
+cache/
+temp_docs/
+__pycache__/
+*.pkl
+*.pdf
